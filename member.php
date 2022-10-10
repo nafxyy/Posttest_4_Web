@@ -77,7 +77,7 @@
                     </tr>
 
                     <tr>
-                        <td class="butonsub"><input type="submit" name="spn" values="simpan" style="height:1cm; width:4cm; margin: 0; background-color:white; padding-left 10px;"></td>
+                        <td colspan = 3 class="butonsub"><input type="submit" name="spn" values="simpan" style="height:1cm; width:4cm; margin: 0; background-color:white; padding-left 10px;"></td>
                     </tr>
                 </table>
             </form>
